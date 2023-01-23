@@ -8,7 +8,7 @@
 Console.WriteLine("Введите число: ");
 int number = Convert.ToInt32(Console.ReadLine());
 
-Console.WriteLine($"из числа {number} получили {ThirdDigit} "); 
+Console.WriteLine($"из числа {number} получили {ThirdDigit} ");
 
 
 int ThirdDigit(int num)
